@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C69CD0A0-85AA-4856-A74B-97A453C1CFAC}|Project2\\Project2.vcxproj|C:\\Users\\User\\source\\repos\\Project2\\Project2\\\uC7AC\uADC0\uD568\uC218 \uC608\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C69CD0A0-85AA-4856-A74B-97A453C1CFAC}|Project2\\Project2.vcxproj|solutionrelative:Project2\\\uC7AC\uADC0\uD568\uC218 \uC608\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69CD0A0-85AA-4856-A74B-97A453C1CFAC}|Project2\\Project2.vcxproj|C:\\Users\\User\\source\\repos\\Project2\\Project2\\\uC7AC\uADC0\uD568\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C69CD0A0-85AA-4856-A74B-97A453C1CFAC}|Project2\\Project2.vcxproj|solutionrelative:Project2\\\uC7AC\uADC0\uD568\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69CD0A0-85AA-4856-A74B-97A453C1CFAC}|Project2\\Project2.vcxproj|C:\\Users\\User\\source\\repos\\Project2\\Project2\\call by.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C69CD0A0-85AA-4856-A74B-97A453C1CFAC}|Project2\\Project2.vcxproj|solutionrelative:Project2\\call by.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC7AC\uADC0\uD568\uC218 \uC608\uC81C.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project2\\Project2\\\uC7AC\uADC0\uD568\uC218 \uC608\uC81C.c",
+              "RelativeDocumentMoniker": "Project2\\\uC7AC\uADC0\uD568\uC218 \uC608\uC81C.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project2\\Project2\\\uC7AC\uADC0\uD568\uC218 \uC608\uC81C.c",
+              "RelativeToolTip": "Project2\\\uC7AC\uADC0\uD568\uC218 \uC608\uC81C.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T01:31:16.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC7AC\uADC0\uD568\uC218.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project2\\Project2\\\uC7AC\uADC0\uD568\uC218.c",
+              "RelativeDocumentMoniker": "Project2\\\uC7AC\uADC0\uD568\uC218.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project2\\Project2\\\uC7AC\uADC0\uD568\uC218.c",
+              "RelativeToolTip": "Project2\\\uC7AC\uADC0\uD568\uC218.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T01:13:40.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "call by.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Project2\\Project2\\call by.c",
+              "RelativeDocumentMoniker": "Project2\\call by.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Project2\\Project2\\call by.c",
+              "RelativeToolTip": "Project2\\call by.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T00:21:57.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
