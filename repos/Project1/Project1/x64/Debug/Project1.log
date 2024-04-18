@@ -1,0 +1,21 @@
+﻿  dfhdjjlk.cpp
+C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(213,15): error C2131: 식이 상수로 계산되지 않았습니다.
+  C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(213,15):
+  수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
+  C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(213,15):
+  'lenOfOption' 사용량 참조
+  
+C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(220,21): error C3863: 배열 형식 'char [lenOfOption]'은(는) 할당할 수 없습니다.
+C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(225,21): error C3863: 배열 형식 'char [lenOfOption]'은(는) 할당할 수 없습니다.
+C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(246,20): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char [lenOfOption]'입니다.
+C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(246,20): warning C4313: 'printf': 서식 문자열의 '%c'이(가) char [lenOfOption]' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(307,33): error C3863: 배열 형식 'char [lenOfOption]'은(는) 할당할 수 없습니다.
+C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(352,19): error C2664: 'int strList(char [][21],char [],char [],char [])': 인수 4을(를) 'const char [2]'에서 'char []'(으)로 변환할 수 없습니다.
+  C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(352,53):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(46,5):
+  'strList' 선언을 참조하십시오.
+  C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(352,19):
+  인수 목록 '(char [16][21], char [336], char [21], const char [2])'을(를) 일치시키는 동안
+  
+C:\Users\User\Desktop\새 폴더\repos\Project1\Project1\dfhdjjlk.cpp(370,21): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
